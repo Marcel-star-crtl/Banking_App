@@ -88,7 +88,7 @@ a:hover{color: #ff6d0d!important;text-decoration: none;}
 
 /*Banner part*/
 /*.banner-detail{padding: 200px 0 0px 0;}*/
-.banner-detail .banner-title{font-size: 72px;color: #fff;font-family: 'Roboto Slab', serif;font-weight: 800;margin-bottom: 0px;}
+.banner-detail .banner-title{font-size: 50px;color: #fff;font-family: 'Roboto Slab', serif;font-weight: 800;margin-bottom: 0px;}
 .banner-detail .heading-span{font-size: 16px;color:#fff;font-weight: 400;margin-bottom: 20px;}
 .banner-detail .donate{color: #fff;background-color:#ff6d0d;padding:14px 31px 15px 30px;display: inline-block;font-size: 14px;font-weight: 500;text-decoration: none;}
 /*End*/
